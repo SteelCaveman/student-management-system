@@ -14,6 +14,7 @@ A web-based Student Management System developed using **Java Spring Boot**, **Ma
 
 ## Project Structure
 
+```text
 student-management-system/
 │
 ├── k6/
